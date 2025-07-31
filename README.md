@@ -20,4 +20,4 @@
 
     Linux:
 
-       git clone "https://github.com/SlashandDash/SequencedDropSequences.git" "$HOME/share/Steam/steamapps/common/Crab Game/BepInEx/plugins/SequencedDropSequences"
+       git clone "https://github.com/SlashandDash/SequencedDropSequences.git" "$HOME/.local/share/Steam/steamapps/common/Crab Game/BepInEx/plugins/SequencedDropSequences"
