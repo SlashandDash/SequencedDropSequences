@@ -15,9 +15,9 @@
 
     Windows (PowerShell):
 
-       git clone "https://github.com/SlashandDash/SequencedDropSequences.git" C:\Program Files (x86)\Steam\steamapps\common\Crab Game\BepInEx\plugins
+       git clone "https://github.com/SlashandDash/SequencedDropSequences.git" C:\Program Files (x86)\Steam\steamapps\common\Crab Game\BepInEx\plugins\SequencedDropSequences
     
 
     Linux:
 
-       git clone "https://github.com/SlashandDash/SequencedDropSequences.git" ~/.local/share/Steam/steamapps/common/Crab\ Game/BepInEx/plugins
+       git clone "https://github.com/SlashandDash/SequencedDropSequences.git" "~/.local/share/Steam/steamapps/common/Crab Game/BepInEx/plugins/SequencedDropSequences"
