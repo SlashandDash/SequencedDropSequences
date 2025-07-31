@@ -7,7 +7,7 @@
     
     Linux:
        
-       rm -rf "$HOME/.local/share/Steam/steamapps/common/Crab\ Game/BepInEx/plugins/SequencedDropSequences"
+       rm -rf "$HOME/.local/share/Steam/steamapps/common/Crab Game/BepInEx/plugins/SequencedDropSequences"
 
 
 
