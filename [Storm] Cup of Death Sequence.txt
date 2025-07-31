@@ -1,0 +1,78 @@
+Name=Cup of Death (Made by Storm!)
+Height=5
+MinPlayers=-1
+MaxPlayers=15
+
+Sequence:
+#Layer 1
+multidrop=[0, 15], 1
+wait=0.9
+multidrop=[1, 14], 1
+wait=0.9
+multidrop=[2, 13], 1
+wait=0.9
+multidrop=[3, 12], 1
+wait=0.9
+multidrop=[7, 8], 1
+wait=0.9
+multidrop=[11, 4], 1
+wait=0.9
+
+#Layer 2
+multidrop=[0, 15], 1
+wait=0.9
+multidrop=[1, 14], 1
+wait=0.9
+multidrop=[2, 13], 1
+wait=0.9
+multidrop=[3, 12], 1
+wait=0.9
+multidrop=[7, 8], 1
+wait=0.9
+multidrop=[11, 4], 1
+wait=0.9
+
+#Layer 3
+multidrop=[0, 15], 1
+wait=0.9
+multidrop=[1, 14], 1
+wait=0.9
+multidrop=[2, 13], 1
+wait=0.9
+multidrop=[3, 12], 1
+wait=0.9
+multidrop=[7, 8], 1
+wait=0.9
+multidrop=[11, 4], 1
+wait=0.9
+
+#Layer 4
+multidrop=[0, 15], 1
+wait=0.9
+multidrop=[1, 14], 1
+wait=0.9
+multidrop=[2, 13], 1
+wait=0.9
+multidrop=[3, 12], 1
+wait=0.9
+multidrop=[7, 8], 1
+wait=0.9
+multidrop=[11, 4], 1
+wait=0.9
+
+#Layer 5
+multidrop=[0, 15], 1
+wait=0.9
+multidrop=[1, 14], 1
+wait=0.9
+multidrop=[2, 13], 1
+wait=0.9
+multidrop=[3, 12], 1
+wait=0.9
+multidrop=[7, 8], 1
+wait=0.9
+multidrop=[11, 4], 1
+wait=8
+
+#Cup of death
+multidrop=[5, 6, 9, 10], 1, 5, 0.25

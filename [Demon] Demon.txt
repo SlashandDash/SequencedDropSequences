@@ -1,0 +1,29 @@
+Name=Demon made by .. well Demon Duh
+Height=4
+MinPlayers=4
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[7], 1
+Wait=0.6
+MultiDrop=[6, 10], 1
+Wait=0.6
+MultiDrop=[2, 5, 9], 1
+Wait=0.6
+MultiDrop=[1, 4, 8, 13], 1
+Wait=0.6
+MultiDrop=[0, 12], 1
+Wait=0.6
+MultiDrop=[3, 11], 1
+Wait=0.6
+MultiDrop=[14, 15], 1
+Wait=0.6
+
+MultiDrop=[0, 1, 2, 3], 1
+Wait=0.6
+MultiDrop=[4, 5, 6, 7], 1
+Wait=0.6
+MultiDrop=[8, 9, 10, 11], 1
+Wait=0.6
+MultiDrop=[12, 13, 14, 15], 1
+Wait=0.6

@@ -1,0 +1,32 @@
+Name=Cha Cha prime (Made by Demon)
+Height=4
+MinPlayers=1
+MaxPlayers=1
+
+Sequence:
+MultiDrop=[0, 1, 2, 3], 1
+Wait=0.4
+MultiDrop=[4, 5, 6, 7], 1
+Wait=0.4
+MultiDrop=[8, 9, 10, 11], 1
+Wait=0.4
+MultiDrop=[12, 13, 14, 15], 1
+Wait=0.4
+MultiDrop=[1, 5, 9, 13], 1
+Wait=0.4
+MultiDrop=[0, 4, 8, 12], 1
+Wait=0.4
+MultiDrop=[3, 7, 11, 15], 1
+Wait=0.4
+MultiDrop=[2, 6, 10, 14], 1
+Wait=0.4
+
+MultiDrop=[0, 5, 10, 15], 1
+Wait=0.4
+MultiDrop=[3, 6, 9, 12], 1
+Wait=0.4
+MultiDrop=[1, 4, 11, 14], 1
+Wait=0.4
+MultiDrop=[2, 7, 8, 13], 1
+Wait=0.4
+

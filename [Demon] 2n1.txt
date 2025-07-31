@@ -1,0 +1,26 @@
+Name=Demon (Made by Demon)
+Height=4
+MinPlayers=2
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[0, 15], 0.5
+Wait=0.3
+MultiDrop=[1, 14], 0.5
+Wait=0.3
+MultiDrop=[2, 13], 0.5
+Wait=0.3
+MultiDrop=[3, 12], 0.5
+Wait=0.3
+MultiDrop=[4, 11], 0.5
+Wait=0.3
+MultiDrop=[5, 10], 0.5
+Wait=0.3
+MultiDrop=[6, 9], 0.5
+Wait=0.3
+MultiDrop=[7, 8], 0.5
+Wait=1.5
+MultiDrop=[0,1,2,3,4,5,6,7], 0.5
+Wait=0.5
+MultiDrop=[8,9,10,11,12,13,14,15], 0.5
+Wait=1

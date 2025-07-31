@@ -1,0 +1,57 @@
+Name=Pulse (Made by Demon)
+Height=4
+MinPlayers=4
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[0, 1], 1
+Wait=0.3
+MultiDrop=[4, 5], 1
+Wait=0.3
+MultiDrop=[8, 9], 1
+Wait=0.3
+MultiDrop=[12, 13], 1
+Wait=0.9
+MultiDrop=[2, 3], 1
+Wait=0.9
+MultiDrop=[6, 7], 1
+Wait=0.9
+MultiDrop=[10, 11], 1
+Wait=0.9
+MultiDrop=[14, 15], 1
+Wait=0.9
+
+MultiDrop=[0, 1, 2, 3], 1
+Wait=0.3
+MultiDrop=[4, 5, 6, 7], 1
+Wait=0.3
+MultiDrop=[8, 9, 10, 11], 1
+Wait=0.3
+MultiDrop=[12, 13, 14, 15], 1
+Wait=0.3
+MultiDrop=[0, 1], 1
+Wait=0.3
+MultiDrop=[4, 5], 1
+Wait=0.3
+MultiDrop=[8, 9], 1
+Wait=0.3
+MultiDrop=[12, 13], 1
+Wait=0.3
+
+MultiDrop=[2, 3], 1
+Wait=0.3
+MultiDrop=[6, 7], 1
+Wait=0.3
+MultiDrop=[10, 11], 1
+Wait=0.9
+MultiDrop=[14, 15], 1
+Wait=0.9
+
+MultiDrop=[0, 1, 2, 3], 1
+Wait=0.9
+MultiDrop=[4, 5, 6, 7], 1
+Wait=0.5
+MultiDrop=[8, 9, 10, 11], 1
+Wait=0.9
+MultiDrop=[12, 13, 14, 15], 1
+Wait=0.9
