@@ -4,7 +4,7 @@
        Remove-Item "C:\Program Files (x86)\Steam\steamapps\common\Crab Game\BepInEx\plugins\SequencedDropSequences" -Recurse -Force
     
     Linux:
-       rm -r ~/.local/share/Steam/steamapps/common/Crab\ Game/BepInEx/plugins/SequencedDropSequences
+       ```rm -r ~/.local/share/Steam/steamapps/common/Crab\ Game/BepInEx/plugins/SequencedDropSequences```
 
 
 
