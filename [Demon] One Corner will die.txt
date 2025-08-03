@@ -1,0 +1,23 @@
+Name=One Corner Will Die Made By Demon
+Height=4  
+MinPlayers=1  
+MaxPlayers=-1  
+
+Sequence:  
+MultiDrop=[0, 3, 12, 15], 1  
+Wait=0.8  
+MultiDrop=[5, 6, 9, 10], 1  
+Wait=0.7  
+MultiDrop=[1, 2, 4, 7], 1  
+Wait=0.6  
+MultiDrop=[8, 11, 13, 14], 1  
+Wait=0.5  
+
+MultiDrop=[0, 1, 4, 5], 1  
+Wait=0.6  
+MultiDrop=[2, 3, 6, 7], 1  
+Wait=0.6 
+MultiDrop=[8, 9, 12, 13], 1  
+Wait=0.6 
+MultiDrop=[10, 11, 14, 15], 1  
+Wait=0.3  

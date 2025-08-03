@@ -1,0 +1,10 @@
+name= Swastika
+Sequence:
+MultiDrop=[0, 3, 5, 7, 8, 10, 12, 15], 0.7
+Wait=0.7
+MultiDrop=[1, 2, 4, 6, 9, 11, 13, 14], 0.9
+Wait=1
+MultiDrop=[0, 3, 5, 7, 8, 10, 12, 15], 0.7
+Wait=0.7
+MultiDrop=[1, 2, 4, 6, 9, 11, 13, 14], 0.9
+Wait=1
