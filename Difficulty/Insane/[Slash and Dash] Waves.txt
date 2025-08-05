@@ -1,0 +1,72 @@
+Name=Waves by Slash and Dash [Difficulty: Insane]
+#[Difficulty: Insane]
+Height=4
+MinPlayers=2
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[0], 0.5
+Wait=0.3
+MultiDrop=[1, 4], 0.5
+Wait=0.3
+MultiDrop=[2, 5, 8], 0.5
+Wait=0.3
+MultiDrop=[3, 6, 9, 12], 0.5
+Wait=0.3
+MultiDrop=[7, 10, 13], 0.5
+Wait=0.3
+MultiDrop=[11, 14], 0.5
+Wait=0.3
+MultiDrop=[15], 0.5
+Wait=0.3
+
+
+MultiDrop=[15], 0.5
+Wait=0.3
+MultiDrop=[11, 14], 0.5
+Wait=0.3
+MultiDrop=[7, 10, 13], 0.5
+Wait=0.3
+MultiDrop=[3, 6, 9, 12], 0.5
+Wait=0.3
+MultiDrop=[2, 5, 8], 0.5
+Wait=0.3
+MultiDrop=[1, 4], 0.5
+Wait=0.3
+MultiDrop=[0], 0.5
+Wait=0.3
+
+
+
+
+MultiDrop=[3], 0.5
+Wait=0.3
+MultiDrop=[2, 7], 0.5
+Wait=0.3
+MultiDrop=[1, 6, 11], 0.5
+Wait=0.3
+MultiDrop=[0, 5, 10, 15], 0.5
+Wait=0.3
+MultiDrop=[4, 9, 14], 0.5
+Wait=0.3
+MultiDrop=[8, 13], 0.5
+Wait=0.3
+MultiDrop=[12], 0.5
+Wait=0.3
+
+
+
+MultiDrop=[12], 0.5
+Wait=0.3
+MultiDrop=[8, 13], 0.5
+Wait=0.3
+MultiDrop=[4, 9, 14], 0.5
+Wait=0.3
+MultiDrop=[0, 5, 10, 15], 0.5
+Wait=0.3
+MultiDrop=[1, 6, 11], 0.5
+Wait=0.3
+MultiDrop=[2, 7], 0.5
+Wait=0.3
+MultiDrop=[3], 0.5
+Wait=0.3

@@ -1,0 +1,39 @@
+Name=SpiralStaircase [Difficulty: Hard]
+#[Difficulty: Hard]
+Height=13
+MinPlayers=1
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[0,3,12,15], 1
+Wait=3
+MultiDrop=[1,7,14,8], 0.35, 2, 0.35
+Wait=0.35
+MultiDrop=[2,11,13,4], 0.35, 3, 0.35
+Wait=0.35
+MultiDrop=[0,3,12,15], 0.35, 3, 0.35
+Wait=0.35
+MultiDrop=[1,7,14,8], 0.35, 3, 0.35
+Wait=0.35
+MultiDrop=[2,11,13,4], 0.35, 3, 0.35
+Wait=0.35
+MultiDrop=[0,3,12,15], 0.35, 3, 0.35
+Wait=0.35
+MultiDrop=[1,7,14,8], 0.35, 3, 0.35
+Wait=0.35
+MultiDrop=[2,11,13,4], 0.35, 3, 0.35
+Wait=0.35
+MultiDrop=[0,3,12,15], 0.35, 3, 0.35
+Wait=0.35
+MultiDrop=[1,7,14,8], 0.35, 3, 0.35
+Wait=0.35
+MultiDrop=[2,11,13,4], 0.35, 3, 0.35
+Wait=0.35
+MultiDrop=[0,3,12,15], 0.35, 3, 0.35
+Wait=2
+MultiDrop=[1,2,4,5,6,7,8,9,10,11,13,14], 0.35
+Wait=0.35
+MultiDrop=[1,5,6,7,8,9,10,14], 0.35
+Wait=0.35
+MultiDrop=[5,6,9,10], 0.1, 11, 0.1
+Wait=0.1

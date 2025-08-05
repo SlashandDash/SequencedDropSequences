@@ -1,0 +1,24 @@
+Name=ZigZag Wave Or Is It?? Made By Demon [Difficulty: Hard]
+#[Difficulty: Hard]
+Height=4
+MinPlayers=1
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[0, 5, 10, 15], 1
+Wait=1.0
+MultiDrop=[1, 6, 11, 12], 1
+Wait=0.9
+MultiDrop=[2, 7, 8, 13], 1
+Wait=0.8
+MultiDrop=[3, 4, 9, 14], 1
+Wait=0.7
+
+MultiDrop=[0, 2, 6, 8], 1
+Wait=0.6
+MultiDrop=[3, 5, 7, 11], 1
+Wait=0.5
+MultiDrop=[4, 10, 13, 14], 1
+Wait=0.4
+MultiDrop=[1, 9, 12, 15], 1
+Wait=0.3

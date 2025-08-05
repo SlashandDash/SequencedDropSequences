@@ -1,18 +1,1 @@
-name=like Stealing Candy From A baby Made By Demon
-Sequence:
-MultiDrop=[0, 1], 0.7
-Wait=0.7
-MultiDrop=[2, 3], 0.8
-Wait=0.7
-MultiDrop=[4, 5], 0.9
-Wait=0.6
-MultiDrop=[6, 7], 1
-Wait=0.5
-MultiDrop=[8, 9], 0.7
-Wait=0.4
-MultiDrop=[10, 11], 0.9
-Wait=0.3
-MultiDrop=[12, 13], 0.8
-Wait=0.2
-MultiDrop=[14, 15], 0.7
-Wait=1
+[Demon] stealingcandyfrombaby.txt

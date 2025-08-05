@@ -1,4 +1,5 @@
-Name=Disaster (Made by ActualMonkey)
+Name=Disaster Buffed (Made by ActualMonkey) [Difficulty: Hard]
+#[Difficulty: Hard]
 Height=4
 MinPlayers=4
 MaxPlayers=-1
