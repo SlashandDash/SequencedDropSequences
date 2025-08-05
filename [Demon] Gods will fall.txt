@@ -1,1 +1,31 @@
-[Demon] Gods will fall.txt
+Name=Gods will fall (Made By Demon) [Difficulty: Hard]
+#[Difficulty: Hard]
+Height=4  
+MinPlayers=1  
+MaxPlayers=1  
+
+Sequence:  
+MultiDrop=[0, 2, 5, 7], 1  
+Wait=0.7  
+MultiDrop=[1, 4, 6, 9], 1  
+Wait=0.7  
+MultiDrop=[3, 8, 10, 12], 1  
+Wait=0.7  
+MultiDrop=[11, 13, 14, 15], 1  
+Wait=0.7  
+MultiDrop=[0, 6, 9, 14], 1  
+Wait=0.7  
+MultiDrop=[2, 4, 11, 13], 1  
+Wait=0.7  
+MultiDrop=[1, 5, 8, 15], 1  
+Wait=0.7  
+MultiDrop=[3, 7, 10, 12], 1  
+Wait=0.7  
+MultiDrop=[0, 3, 6, 12], 1  
+Wait=0.7  
+MultiDrop=[2, 5, 9, 15], 1  
+Wait=0.7  
+MultiDrop=[1, 7, 10, 14], 1  
+Wait=0.7  
+MultiDrop=[4, 8, 11, 13], 1  
+Wait=0.7

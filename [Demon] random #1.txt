@@ -1,1 +1,23 @@
-[Demon] random #1.txt
+Name=Random #1 (Made By Demon) [Difficulty: Hard]
+#[Difficulty: Hard]
+Height=4  
+MinPlayers=1  
+MaxPlayers=-1  
+
+Sequence:  
+MultiDrop=[0, 3], 1  
+Wait=0.5  
+MultiDrop=[1, 2], 1  
+Wait=0.5  
+MultiDrop=[4, 7], 1  
+Wait=0.4  
+MultiDrop=[5, 6], 1  
+Wait=0.4  
+MultiDrop=[8, 11], 1  
+Wait=0.3  
+MultiDrop=[9, 10], 1  
+Wait=0.3  
+MultiDrop=[12, 15], 1  
+Wait=0.2  
+MultiDrop=[13, 14], 1  
+Wait=0.2  

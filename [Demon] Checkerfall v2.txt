@@ -1,1 +1,27 @@
-[Demon] Checkerfall v2.txt
+Name=Checkerfall V2 (Made by Demon) [Difficulty: Hard]
+#[Difficulty: Hard]
+Height=4
+MinPlayers=1
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[0,2,4,6,8,10,12,14], 0.7
+Wait=0.7
+MultiDrop=[1,3,5,7,9,11,13,15], 0.7
+Wait=0.7
+MultiDrop=[0,5,10,15], 0.7
+Wait=0.7
+MultiDrop=[3,6,9,12], 0.7
+Wait=0.7
+MultiDrop=[1,4,11,14], 0.7
+Wait=0.7
+MultiDrop=[2,7,8,13], 0.7
+Wait=0.8
+MultiDrop=[0,1,2,3], 0.7
+Wait=0.7
+MultiDrop=[4,5,6,7], 0.7
+Wait=0.7
+MultiDrop=[8,9,10,11], 0.7
+Wait=0.7
+MultiDrop=[12,13,14,15], 0.7
+Wait=1

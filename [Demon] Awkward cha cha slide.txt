@@ -1,1 +1,42 @@
-[Demon] Awkward cha cha slide.txt
+Name=Awkward Cha Cha Slide (Made by Demon) [Difficulty: Hard]
+#[Difficulty: Hard]
+Height=4
+MinPlayers=1
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[0, 1, 2, 3], 0.7
+Wait=0.7
+MultiDrop=[12, 13, 14, 15], 0.7
+Wait=0.7
+MultiDrop=[4, 5, 6, 7], 0.7
+Wait=0.7
+MultiDrop=[8, 9, 10, 11], 0.7
+Wait=1
+
+MultiDrop=[3, 2, 1, 0], 0.5
+Wait=0.5
+MultiDrop=[15, 14, 13, 12], 0.5
+Wait=0.5
+MultiDrop=[7, 6, 5, 4], 0.5
+Wait=0.5
+MultiDrop=[11, 10, 9, 8], 0.5
+Wait=1
+
+MultiDrop=[0, 4, 8, 12], 0.7
+Wait=0.7
+MultiDrop=[15, 11, 7, 3], 0.7
+Wait=0.7
+MultiDrop=[1, 5, 9, 13], 0.7
+Wait=0.7
+MultiDrop=[14, 10, 6, 2], 0.7
+Wait=1
+
+MultiDrop=[12, 8, 4, 0], 0.5
+Wait=0.5
+MultiDrop=[3, 7, 11, 15], 0.5
+Wait=0.5
+MultiDrop=[13, 9, 5, 1], 0.5
+Wait=0.5
+MultiDrop=[2, 6, 10, 14], 0.5
+Wait=1

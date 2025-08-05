@@ -1,1 +1,30 @@
-[Albion] Parkour2.txt
+Name=Parkour2 (Made by Albion) [Difficulty: Normal]
+#[Difficulty: Normal]
+Height=6
+MinPlayers=1
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[12,13,14,15,0,6], 0.75
+Wait=0.75
+MultiDrop=[13,14,15,0,6], 0.75
+Wait=0.75
+MultiDrop=[14,15,0,6], 0.75
+Wait=0.75
+MultiDrop=[15,0,6], 0.75
+Wait=0.75
+MultiDrop=[0,6], 0.75
+Wait=0.75
+Drop=0, 0.75
+Wait=12
+MultiDrop=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15], 0.75
+Wait=0.1
+MultiDrop=[1,2,3,4,5,7,8,9,10,11,12,13,14,15], 0.75
+Wait=0.1
+MultiDrop=[1,2,3,4,5,7,8,9,10,11,12,13,14], 0.75
+Wait=0.1
+MultiDrop=[1,2,3,4,5,7,8,9,10,11,12,13], 0.75
+Wait=0.1
+MultiDrop=[1,2,3,4,5,7,8,9,10,11,12], 0.75
+Wait=0.1
+MultiDrop=[1,2,3,4,5,7,8,9,10,11], 0.75
