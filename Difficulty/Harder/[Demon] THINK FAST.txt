@@ -1,5 +1,5 @@
-Name=Think Fast (Made by Demon) [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Think Fast (Made by Demon) [Difficulty: Harder]
+#[Difficulty: Harder]
 Height=5
 MinPlayers=1
 MaxPlayers=-1

@@ -1,5 +1,5 @@
-Name=Thanos Was right (Made By Demon) [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Thanos Was right (Made By Demon) [Difficulty: Harder]
+#[Difficulty: Harder]
 Height=4
 MinPlayers=-1
 MaxPlayers=12
