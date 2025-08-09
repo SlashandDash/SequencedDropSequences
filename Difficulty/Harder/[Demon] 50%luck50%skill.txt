@@ -1,5 +1,5 @@
-Name=50% luck 50% skill (Made by Demon) [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=50% luck 50% skill (Made by Demon) [Difficulty: Harder]
+#[Difficulty: Harder]
 Height=4
 MinPlayers=1
 MaxPlayers=-1

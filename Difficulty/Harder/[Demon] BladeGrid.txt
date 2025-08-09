@@ -1,5 +1,5 @@
-Name=BladeGrid Made By Demon [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=BladeGrid Made By Demon [Difficulty: Harder]
+#[Difficulty: Harder]
 Height=4
 MinPlayers=2
 MaxPlayers=-1
