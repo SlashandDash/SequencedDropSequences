@@ -1,0 +1,28 @@
+Name=Jungle (Made by ActualMonkey) [Difficulty: Hard]
+#[Difficulty: Hard]
+Height=8
+MinPlayers=1
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[0, 1, 2, 3], 0.5
+MultiDrop=[0, 1, 2, 3], 0.5
+Wait=3
+MultiDrop=[4, 5, 6, 7], 0.5
+MultiDrop=[4, 5, 6, 7], 0.5
+MultiDrop=[4, 5, 6, 7], 0.5
+MultiDrop=[4, 5, 6, 7], 0.5
+MultiDrop=[4, 5, 6, 7], 0.5
+MultiDrop=[4, 5, 6, 7], 0.5
+Wait=5.1
+MultiDrop=[0, 1, 2, 3], 0.5
+MultiDrop=[0, 1, 2, 3], 0.5
+MultiDrop=[0, 1, 2, 3], 0.5
+MultiDrop=[0, 1, 2, 3], 0.5
+Wait=1
+MultiDrop=[9, 8, 10, 11, 12, 13, 14, 15], 0.5
+MultiDrop=[9, 8, 10, 11, 12, 13, 14, 15], 0.5
+MultiDrop=[9, 8, 10, 11, 12, 13, 14, 15], 0.5
+MultiDrop=[9, 8, 10, 11, 12, 13, 14, 15], 0.5
+MultiDrop=[9, 8, 10, 11, 12, 13, 14, 15], 0.5
+MultiDrop=[9, 8, 10, 11, 12, 13, 14, 15], 0.5
