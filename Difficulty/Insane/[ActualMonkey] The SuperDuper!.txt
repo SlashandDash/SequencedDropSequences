@@ -1,0 +1,21 @@
+Name=The SuperDuper! (Made by ActualMonkey) [Difficulty: Insane]
+#[Difficulty: Insane]
+Height=8
+MinPlayers=1
+MaxPlayers=-1
+
+Sequence:
+MultiDrop=[3, 0, 12, 15] 0.5
+MultiDrop=[3, 0, 12, 15] 0.5
+MultiDrop=[3, 0, 12, 15] 0.5
+MultiDrop=[3, 0, 12, 15] 0.5
+Wait=0.9
+MultiDrop=[2, 1, 11, 10] 0.5
+MultiDrop=[2, 1, 11, 10] 0.5
+MultiDrop=[2, 1, 11, 10] 0.5
+MultiDrop=[2, 1, 11, 10] 0.5
+Wait=0.9
+MultiDrop=[4, 5, 6, 7, 8, 9, 13, 14] 0.5
+MultiDrop=[4, 5, 6, 7, 8, 9, 13, 14] 0.5
+MultiDrop=[4, 5, 6, 7, 8, 9, 13, 14] 0.5
+MultiDrop=[4, 5, 6, 7, 8, 9, 13, 14] 0.5
