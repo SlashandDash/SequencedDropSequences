@@ -1,7 +1,7 @@
 Name=Kuzureta by Slash and Dash [Difficulty: Insane]
 #[Difficulty: Insane]
 Height=4
-MinPlayers=2
+MinPlayers=1
 MaxPlayers=-1
 
 Sequence:

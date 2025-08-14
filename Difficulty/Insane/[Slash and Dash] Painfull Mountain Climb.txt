@@ -1,7 +1,7 @@
 Name=Painfull Mountain Climb (Made by Slash and Dash) [Difficulty: Insane]
 #[Difficulty: Insane]
 Height=25
-MinPlayers=2
+MinPlayers=1
 MaxPlayers=-1
 
 Sequence:
