@@ -1,0 +1,18 @@
+Name=Penis (Made By ActualMonkey) [Difficulty: Hard]
+#[Difficulty: Hard]
+Height=8
+MinPlayers=-1
+MaxPlayers=-1
+
+
+Sequence:
+MultiDrop=[0, 4, 1, 5, 2, 6, 3, 7, 10, 9, 13, 14], 0.8, 1, 0.8
+MultiDrop=[0, 4, 1, 5, 2, 6, 3, 7, 10, 9, 13, 14], 0.8, 1, 0.8
+MultiDrop=[0, 4, 1, 5, 2, 6, 3, 7, 10, 9, 13, 14], 0.8, 1, 0.8
+MultiDrop=[0, 4, 1, 5, 2, 6, 3, 7, 10, 9, 13, 14], 0.8, 1, 0.8
+Wait=6
+MultiDrop=[11, 8, 12, 15], 0.8, 1, 0.8
+MultiDrop=[11, 8, 12, 15], 0.8, 1, 0.8
+MultiDrop=[11, 8, 12, 15], 0.8, 1, 0.8
+MultiDrop=[11, 8, 12, 15], 0.8, 1, 0.8
+

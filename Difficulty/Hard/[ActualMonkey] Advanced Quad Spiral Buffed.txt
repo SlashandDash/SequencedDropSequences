@@ -1,5 +1,5 @@
-Name=Advanced Quad Spiral (Made by ActualMonkey) [Difficulty: Normal]
-#[Difficulty: Normal]
+Name=Advanced Quad Spiral (Made by ActualMonkey) [Difficulty: Hard]
+#[Difficulty: Hard]
 MinPlayers=1
 MaxPlayers=-1
 
