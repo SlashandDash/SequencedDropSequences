@@ -1,4 +1,4 @@
-Name=Waves by Slash and Dash [Difficulty: Insane]
+Name=Waves [Difficulty: Insane]
 #[Difficulty: Insane]
 Height=4
 MinPlayers=1

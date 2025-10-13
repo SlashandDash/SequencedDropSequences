@@ -1,4 +1,4 @@
-Name=ParkourStairs (Made by Albion) [Difficulty: Normal]
+Name=ParkourStairs [Difficulty: Normal]
 #[Difficulty: Normal]
 Height=7
 MinPlayers=1

@@ -1,4 +1,4 @@
-Name=elevator (Made by Albion) [Difficulty: Normal]
+Name=Elevator [Difficulty: Normal]
 #[Difficulty: Normal]
 Height=6
 MinPlayers=1

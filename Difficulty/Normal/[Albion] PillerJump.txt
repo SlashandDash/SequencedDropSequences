@@ -1,4 +1,4 @@
-Name=PillerJump (Made by Albion) [Difficulty: Normal]
+Name=PillerJump [Difficulty: Normal]
 #[Difficulty: Normal]
 Height=8
 MinPlayers=1

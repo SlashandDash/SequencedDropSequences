@@ -1,4 +1,4 @@
-Name=Parkour2 (Made by Albion) [Difficulty: Normal]
+Name=Parkour2 [Difficulty: Normal]
 #[Difficulty: Normal]
 Height=6
 MinPlayers=1

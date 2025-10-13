@@ -1,4 +1,4 @@
-Name=Stairway to Heaven (Made by Storm&Co) [Difficulty: Normal]
+Name=Stairway to Heaven [Difficulty: Normal]
 #[Difficulty: Normal]
 Height=16
 MinPlayers=-1

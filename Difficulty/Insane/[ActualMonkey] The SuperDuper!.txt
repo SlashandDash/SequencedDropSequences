@@ -1,4 +1,4 @@
-Name=The SuperDuper! (Made by ActualMonkey) [Difficulty: Insane]
+Name=The SuperDuper! [Difficulty: Insane]
 #[Difficulty: Insane]
 Height=8
 MinPlayers=1

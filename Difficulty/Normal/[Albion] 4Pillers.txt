@@ -1,4 +1,4 @@
-Name=4 Pillers (Made by Albion) [Difficulty: Normal]
+Name=4 Pillers [Difficulty: Normal]
 #[Difficulty: Normal]
 Height=8
 MinPlayers=1

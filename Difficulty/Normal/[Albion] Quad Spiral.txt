@@ -1,4 +1,4 @@
-Name=Quad Spiral (Made by Albion) [Difficulty: Normal]
+Name=Quad Spiral [Difficulty: Normal]
 #[Difficulty: Normal]
 Height=4
 MinPlayers=1

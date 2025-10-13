@@ -1,4 +1,4 @@
-Name=Kuzureta by Slash and Dash [Difficulty: Insane]
+Name=Kuzureta [Difficulty: Insane]
 #[Difficulty: Insane]
 Height=4
 MinPlayers=1

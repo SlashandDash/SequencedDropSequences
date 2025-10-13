@@ -1,4 +1,4 @@
-Name=Random (Made by Albion) [Difficulty: Normal]
+Name=Random [Difficulty: Normal]
 #[Difficulty: Normal]
 Height=17
 MinPlayers=1
