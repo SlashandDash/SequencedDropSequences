@@ -1,4 +1,4 @@
-Name=Tantan's Game of Death (Made by Storm! and TanTan) [Difficulty: Easy]
+Name=Tantan's Game of Death [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=6
 MinPlayers=-1

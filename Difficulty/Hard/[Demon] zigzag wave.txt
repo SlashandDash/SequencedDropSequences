@@ -1,4 +1,4 @@
-Name=Zigzag Wave (Made by Demon) [Difficulty: Hard]
+Name=Zigzag Wave [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=6
 MinPlayers=1

@@ -1,4 +1,4 @@
-Name=Falling Cascade (Made by Demon) [Difficulty: Hard]
+Name=Falling Cascade [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=4

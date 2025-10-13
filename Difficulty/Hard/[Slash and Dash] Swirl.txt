@@ -1,4 +1,4 @@
-Name=Swirl (Made by Slash and Dash) [Difficulty: Hard]
+Name=Swirl [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=3
 MinPlayers=1

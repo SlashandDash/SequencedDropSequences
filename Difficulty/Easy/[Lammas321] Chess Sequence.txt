@@ -1,4 +1,4 @@
-Name=Chess (Made by Lammas321) [Difficulty: Easy]
+Name=Chess [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=2
 MinPlayers=5

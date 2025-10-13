@@ -1,4 +1,4 @@
-Name=ZigZag X Quad (Made By Demon) [Difficulty: Hard]
+Name=ZigZag X Quad [Difficulty: Hard]
 #[Difficulty: Hard]
 Made By=Demon
 Height=4

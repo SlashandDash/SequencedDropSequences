@@ -1,4 +1,4 @@
-Name=Awkward Cha Cha Slide (Made by Demon) [Difficulty: Hard]
+Name=Awkward Cha Cha Slide [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=1

@@ -1,4 +1,4 @@
-Name= Cha Cha Buffed (Buffed by ActualMonkey) [Difficulty: Hard]
+Name= Cha Cha Buffed [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=2

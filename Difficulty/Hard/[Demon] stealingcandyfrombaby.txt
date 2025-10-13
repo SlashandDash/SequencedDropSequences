@@ -1,4 +1,4 @@
-name=like Stealing Candy From A baby (Made By Demon) [Difficulty: Hard]
+name=like Stealing Candy From A baby [Difficulty: Hard]
 #[Difficulty: Hard]
 Sequence:
 MultiDrop=[0, 1], 0.7

@@ -1,4 +1,4 @@
-Name=Stair Parkour (Made by Storm&Co) [Difficulty: Easy]
+Name=Stair Parkour [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=11
 MinPlayers=-1

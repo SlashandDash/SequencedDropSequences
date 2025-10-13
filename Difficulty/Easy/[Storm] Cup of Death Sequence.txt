@@ -1,4 +1,4 @@
-Name=Cup of Death (Made by Storm!) [Difficulty: Easy]
+Name=Cup of Death [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=5
 MinPlayers=-1

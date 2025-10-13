@@ -1,4 +1,4 @@
-Name=Quads Spiral Buffed (Made by ActualMonkey) [Difficulty: Hard]
+Name=Quads Spiral Buffed [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=1

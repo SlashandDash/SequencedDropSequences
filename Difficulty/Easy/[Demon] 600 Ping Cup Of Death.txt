@@ -1,4 +1,4 @@
-Name=666 Ping Cup Of Death (Made by Demon) [Difficulty: Easy]
+Name=666 Ping Cup Of Death [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=5  
 MinPlayers=-1  

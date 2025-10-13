@@ -1,4 +1,4 @@
-Name=Cha Cha Advanced (Made by Demon) [Difficulty: Hard]
+Name=Cha Cha Advanced [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=4

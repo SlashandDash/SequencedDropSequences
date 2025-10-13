@@ -1,4 +1,4 @@
-Name=Back And Fourth (Made by Demon) [Difficulty: Hard]
+Name=Back And Fourth [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=1

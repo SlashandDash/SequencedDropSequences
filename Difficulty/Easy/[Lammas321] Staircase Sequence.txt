@@ -1,4 +1,4 @@
-Name=Staircase (Made by Lammas321) [Difficulty: Easy]
+Name=Staircase [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=4
 MinPlayers=-1

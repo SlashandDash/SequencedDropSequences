@@ -1,4 +1,4 @@
-Name=Advanced Climb! (Made by Lammas321) [Difficulty: Easy]
+Name=Advanced Climb! [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=8
 MinPlayers=-1

@@ -1,4 +1,4 @@
-Name=Penis (Made By ActualMonkey) [Difficulty: Hard]
+Name=Penis [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=8
 MinPlayers=-1

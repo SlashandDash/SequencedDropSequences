@@ -1,4 +1,4 @@
-Name=Arcade Snake (Made by Demon) [Difficulty: Hard]
+Name=Arcade Snake [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4  
 MinPlayers=1  

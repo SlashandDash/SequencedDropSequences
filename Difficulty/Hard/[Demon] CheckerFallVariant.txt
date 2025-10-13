@@ -1,4 +1,4 @@
-Name=Checkerfall Variant #1 Made By Demon [Difficulty: Hard]
+Name=Checkerfall Variant #1 [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=1

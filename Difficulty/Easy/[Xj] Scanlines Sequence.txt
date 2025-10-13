@@ -1,4 +1,4 @@
-Name=Scanlines (Made by the xj) (Made by Lammas321) [Difficulty: Easy]
+Name=Scanlines [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=2
 MinPlayers=5

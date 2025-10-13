@@ -1,4 +1,4 @@
-name=Piano Tiles (Made By Demon) [Difficulty: Hard]
+name=Piano Tiles [Difficulty: Hard]
 #[Difficulty: Hard]
 Sequence:
 MultiDrop=[0, 2, 4, 6], 1

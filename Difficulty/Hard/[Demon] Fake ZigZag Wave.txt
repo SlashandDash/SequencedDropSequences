@@ -1,4 +1,4 @@
-Name=ZigZag Wave Or Is It?? Made By Demon [Difficulty: Hard]
+Name=ZigZag Wave Or Is It?? [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=1

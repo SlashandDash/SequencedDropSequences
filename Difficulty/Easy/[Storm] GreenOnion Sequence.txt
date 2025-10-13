@@ -1,4 +1,4 @@
-Name=GreenOnion (Made by Storm&Co) [Difficulty: Easy]
+Name=GreenOnion [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=6
 MinPlayers=-1

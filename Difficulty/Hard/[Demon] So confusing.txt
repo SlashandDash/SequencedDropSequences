@@ -1,4 +1,4 @@
-Name=So confusing Made By Demon [Difficulty: Hard]
+Name=So confusing [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4  
 MinPlayers=1  

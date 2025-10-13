@@ -1,4 +1,4 @@
-Name=Smile! :) (Made by Lammas321) [Difficulty: Easy]
+Name=Smile! :) [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=1
 MinPlayers=7

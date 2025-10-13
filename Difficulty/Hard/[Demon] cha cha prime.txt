@@ -1,4 +1,4 @@
-Name=Cha Cha prime (Made by Demon) [Difficulty: Hard]
+Name=Cha Cha prime [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=1

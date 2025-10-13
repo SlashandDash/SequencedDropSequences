@@ -1,4 +1,4 @@
-name= Swastika by Demon [Difficulty: Hard]
+name= Swastika [Difficulty: Hard]
 #[Difficulty: Hard]
 Sequence:
 MultiDrop=[0, 3, 5, 7, 8, 10, 12, 15], 0.7

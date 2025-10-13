@@ -1,4 +1,4 @@
-Name=Climb! (Made by Lammas321) [Difficulty: Easy]
+Name=Climb! [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=8
 MinPlayers=-1

@@ -1,4 +1,4 @@
-Name=Stuck In A Loop (Made By Demon) [Difficulty: Hard]
+Name=Stuck In A Loop [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4  
 MinPlayers=1  

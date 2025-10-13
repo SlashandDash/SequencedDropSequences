@@ -1,4 +1,4 @@
-Name=CrossCollapse (Made by Demon) [Difficulty: Hard]
+Name=CrossCollapse [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=1

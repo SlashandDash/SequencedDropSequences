@@ -1,4 +1,4 @@
-Name=Filling Cup (Made by Lammas321) [Difficulty: Easy]
+Name=Filling Cup [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=5
 MinPlayers=-1

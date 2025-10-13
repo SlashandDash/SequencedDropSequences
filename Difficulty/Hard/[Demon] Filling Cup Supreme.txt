@@ -1,4 +1,4 @@
-Name=Filling Cup Supreme (Made by Demon) [Difficulty: Hard]
+Name=Filling Cup Supreme [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=12
 MinPlayers=1

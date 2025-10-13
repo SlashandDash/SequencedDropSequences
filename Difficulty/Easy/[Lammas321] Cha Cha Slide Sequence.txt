@@ -1,4 +1,4 @@
-Name=Cha Cha Slide (Made by Lammas321) [Difficulty: Easy]
+Name=Cha Cha Slide [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=4
 MinPlayers=4

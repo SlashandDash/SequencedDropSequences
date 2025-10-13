@@ -1,4 +1,4 @@
-Name=Don't Fall! (Made by Slash and Dash) [Difficulty: Harder]
+Name=Don't Fall! [Difficulty: Harder]
 #[Difficulty: Harder]
 Height=7
 MinPlayers=-1

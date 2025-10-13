@@ -1,4 +1,4 @@
-Name=Jungle (Made by ActualMonkey) [Difficulty: Hard]
+Name=Jungle [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=8
 MinPlayers=1

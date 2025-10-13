@@ -1,4 +1,4 @@
-Name=Advanced Frown :( (Made by ActualMonkey) [Difficulty: Easy]
+Name=Advanced Frown :( [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=2
 MinPlayers=1

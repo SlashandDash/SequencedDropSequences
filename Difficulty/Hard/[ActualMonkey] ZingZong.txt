@@ -1,4 +1,4 @@
-Name=ZigDingZingDing (Made By ActualMonkey) [Difficulty: Hard]
+Name=ZigDingZingDing [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=8
 MinPlayers=-1

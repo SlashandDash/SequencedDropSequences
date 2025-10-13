@@ -1,4 +1,4 @@
-Name=Gods will fall (Made By Demon) [Difficulty: Hard]
+Name=Gods will fall [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4  
 MinPlayers=1  

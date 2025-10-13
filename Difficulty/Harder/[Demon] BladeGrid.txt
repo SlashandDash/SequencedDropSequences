@@ -1,4 +1,4 @@
-Name=BladeGrid Made By Demon [Difficulty: Harder]
+Name=BladeGrid [Difficulty: Harder]
 #[Difficulty: Harder]
 Height=4
 MinPlayers=2

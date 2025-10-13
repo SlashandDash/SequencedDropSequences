@@ -1,4 +1,4 @@
-Name=2 long Jumps (Made by Slash and Dash) [Difficulty: Hard]
+Name=2 long Jumps [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=8
 MinPlayers=1

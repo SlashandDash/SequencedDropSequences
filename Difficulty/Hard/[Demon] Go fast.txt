@@ -1,4 +1,4 @@
-Name=Go Fast (Made by Demon) [Difficulty: Hard]
+Name=Go Fast [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=1

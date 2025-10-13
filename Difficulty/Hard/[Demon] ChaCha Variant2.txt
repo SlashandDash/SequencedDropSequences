@@ -1,4 +1,4 @@
-Name=ChaCha Slide Variant #2 Made by Demon [Difficulty: Hard]
+Name=ChaCha Slide Variant #2 [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=4

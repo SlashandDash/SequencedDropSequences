@@ -1,4 +1,4 @@
-Name=Peak (Made by Lammas321) [Difficulty: Easy]
+Name=Peak [Difficulty: Easy]
 #[Difficulty: Easy]
 Height=5
 MinPlayers=-1

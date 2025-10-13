@@ -1,4 +1,4 @@
-Name=Tornado (Made by Demon) [Difficulty: Hard]
+Name=Tornado [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=4

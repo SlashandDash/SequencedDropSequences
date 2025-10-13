@@ -1,4 +1,4 @@
-Name=Broken Checkerboard Made By Demon [Difficulty: Hard]
+Name=Broken Checkerboard [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4  
 MinPlayers=1  

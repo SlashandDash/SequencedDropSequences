@@ -1,4 +1,4 @@
-Name=Pulse (Made by Demon) [Difficulty: Hard]
+Name=Pulse [Difficulty: Hard]
 #[Difficulty: Hard]
 Height=4
 MinPlayers=4
