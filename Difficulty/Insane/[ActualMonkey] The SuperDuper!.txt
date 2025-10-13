@@ -1,8 +1,9 @@
-Name=The SuperDuper! [Difficulty: Insane]
-#[Difficulty: Insane]
+Name=The SuperDuper!
 Height=8
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Insane
+Madeby=ActualMonkey
 
 Sequence:
 MultiDrop=[3, 0, 12, 15] 0.5

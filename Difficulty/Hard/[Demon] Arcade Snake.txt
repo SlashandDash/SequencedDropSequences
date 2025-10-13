@@ -1,8 +1,9 @@
-Name=Arcade Snake [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Arcade Snake
 Height=4  
 MinPlayers=1  
 MaxPlayers=-1  
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0], 1  

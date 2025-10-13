@@ -1,8 +1,9 @@
-Name=Stairway to Heaven Sequence Buffed [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Stairway to Heaven Sequence Buffed
 Height=16
 MinPlayers=-1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Slash and Dash
 
 Sequence:
 

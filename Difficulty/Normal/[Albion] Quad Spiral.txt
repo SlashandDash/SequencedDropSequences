@@ -1,8 +1,9 @@
-Name=Quad Spiral [Difficulty: Normal]
-#[Difficulty: Normal]
+Name=Quad Spiral
 Height=4
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Normal
+Madeby=Albion
 
 Sequence:
 MultiDrop=[0,1,4,5], 0.75

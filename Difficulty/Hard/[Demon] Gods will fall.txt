@@ -1,8 +1,9 @@
-Name=Gods will fall [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Gods will fall
 Height=4  
 MinPlayers=1  
 MaxPlayers=1  
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:  
 MultiDrop=[0, 2, 5, 7], 1  

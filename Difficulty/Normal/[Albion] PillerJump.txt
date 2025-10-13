@@ -1,8 +1,9 @@
-Name=PillerJump [Difficulty: Normal]
-#[Difficulty: Normal]
+Name=PillerJump
 Height=8
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Normal
+Madeby=Albion
 
 Sequence:
 MultiDrop=[7,14], 0.75

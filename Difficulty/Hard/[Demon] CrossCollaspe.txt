@@ -1,8 +1,9 @@
-Name=CrossCollapse [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=CrossCollapse
 Height=4
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0, 3, 12, 15], 1

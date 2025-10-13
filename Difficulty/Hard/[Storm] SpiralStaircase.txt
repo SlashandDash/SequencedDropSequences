@@ -1,8 +1,9 @@
-Name=SpiralStaircase [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=SpiralStaircase
 Height=13
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Storm
 
 Sequence:
 MultiDrop=[0,3,12,15], 1

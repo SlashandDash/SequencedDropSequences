@@ -1,8 +1,10 @@
-Name=Demon [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Demon
 Height=4
 MinPlayers=2
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
+
 
 Sequence:
 MultiDrop=[0, 15], 0.5

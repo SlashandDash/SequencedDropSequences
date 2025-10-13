@@ -1,8 +1,9 @@
-Name=Elevator [Difficulty: Normal]
-#[Difficulty: Normal]
+Name=Elevator
 Height=6
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Normal
+Madeby=Albion
 
 Sequence:
 MultiDrop=[0,2,1,3], 1

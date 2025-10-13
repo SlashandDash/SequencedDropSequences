@@ -1,8 +1,9 @@
-Name= Cha Cha Buffed [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Cha Cha Buffed
 Height=4
 MinPlayers=2
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=ActualMonkey
 
 Sequence:
 MultiDrop=[0, 1, 2, 3], 0.5

@@ -1,8 +1,9 @@
-Name=4 Pillers [Difficulty: Normal]
-#[Difficulty: Normal]
+Name=4 Pillers
 Height=8
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Normal
+Madeby=Albion
 
 Sequence:
 Drop=4, 0.2

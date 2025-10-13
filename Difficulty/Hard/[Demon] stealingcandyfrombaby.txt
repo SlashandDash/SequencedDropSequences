@@ -1,5 +1,9 @@
-name=like Stealing Candy From A baby [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=like Stealing Candy From A baby
+MinPlayers=1  
+MaxPlayers=-1  
+Difficulty=Hard
+Madeby=Demon
+
 Sequence:
 MultiDrop=[0, 1], 0.7
 Wait=0.7

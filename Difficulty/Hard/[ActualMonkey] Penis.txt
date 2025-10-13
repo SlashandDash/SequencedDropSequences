@@ -1,8 +1,9 @@
-Name=Penis [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Penis
 Height=8
 MinPlayers=-1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=ActualMonkey
 
 
 Sequence:

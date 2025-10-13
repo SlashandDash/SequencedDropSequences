@@ -1,8 +1,9 @@
-Name=Where Do I Go? [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Where Do I Go?
 Height=4
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0, 7, 9, 14], 1

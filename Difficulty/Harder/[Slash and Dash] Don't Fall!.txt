@@ -1,8 +1,9 @@
-Name=Don't Fall! [Difficulty: Harder]
-#[Difficulty: Harder]
+Name=Don't Fall!
 Height=7
-MinPlayers=-1
+MinPlayers=1
 MaxPlayers=-1
+Difficulty=Harder
+Madeby=Demon
 
 Sequence:
 

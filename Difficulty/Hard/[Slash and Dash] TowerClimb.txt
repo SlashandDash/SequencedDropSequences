@@ -1,8 +1,9 @@
-Name=Tower Climb [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Tower Climb
 Height=12
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Slash and Dash
 
 Sequence:
 

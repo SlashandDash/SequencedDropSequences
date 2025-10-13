@@ -1,8 +1,9 @@
-Name=Tornado [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Tornado
 Height=4
 MinPlayers=4
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0, 15], 1

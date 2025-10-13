@@ -1,7 +1,8 @@
-Name=Advanced Quad Spiral [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Advanced Quad Spiral
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=ActualMonkey
 
 Sequence:
 MultiDrop=[0,1,4,5], 0.75

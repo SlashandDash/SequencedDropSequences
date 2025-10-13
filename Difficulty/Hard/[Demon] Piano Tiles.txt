@@ -1,5 +1,10 @@
-name=Piano Tiles [Difficulty: Hard]
-#[Difficulty: Hard]
+name=Piano Tiles
+MinPlayers=1
+MaxPlayers=-1
+
+Difficulty=Hard
+Madeby=Demon
+
 Sequence:
 MultiDrop=[0, 2, 4, 6], 1
 Wait=0.7

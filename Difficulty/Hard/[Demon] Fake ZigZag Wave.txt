@@ -1,8 +1,9 @@
-Name=ZigZag Wave Or Is It?? [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=ZigZag Wave Or Is It??
 Height=4
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0, 5, 10, 15], 1

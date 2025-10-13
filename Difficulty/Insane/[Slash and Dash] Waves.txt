@@ -1,8 +1,9 @@
-Name=Waves [Difficulty: Insane]
-#[Difficulty: Insane]
+Name=Waves
 Height=4
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Insane
+Madeby=Slash and Dash
 
 Sequence:
 MultiDrop=[0], 0.5

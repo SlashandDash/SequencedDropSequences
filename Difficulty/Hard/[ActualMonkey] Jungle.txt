@@ -1,8 +1,9 @@
-Name=Jungle [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Jungle
 Height=8
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=ActualMonkey
 
 Sequence:
 MultiDrop=[0, 1, 2, 3], 0.5

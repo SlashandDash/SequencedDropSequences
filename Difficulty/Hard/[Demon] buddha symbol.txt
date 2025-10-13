@@ -1,5 +1,10 @@
-name= Swastika [Difficulty: Hard]
-#[Difficulty: Hard]
+Name= Swastika
+MinPlayers=1
+MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
+
+
 Sequence:
 MultiDrop=[0, 3, 5, 7, 8, 10, 12, 15], 0.7
 Wait=0.7

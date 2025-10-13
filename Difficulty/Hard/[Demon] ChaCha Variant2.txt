@@ -1,8 +1,9 @@
-Name=ChaCha Slide Variant #2 [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=ChaCha Slide Variant #2
 Height=4
 MinPlayers=4
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0, 1, 2, 3], 1

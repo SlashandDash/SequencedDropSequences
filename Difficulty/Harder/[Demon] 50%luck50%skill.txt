@@ -1,8 +1,9 @@
-Name=50% luck 50% skill [Difficulty: Harder]
-#[Difficulty: Harder]
+Name=50% luck 50% skill
 Height=4
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Harder
+Madeby=Demon
 
 Sequence:
 # Outer corners first

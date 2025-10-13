@@ -1,9 +1,9 @@
-Name=ZigZag X Quad [Difficulty: Hard]
-#[Difficulty: Hard]
-Made By=Demon
+Name=ZigZag X Quad
 Height=4
 MinPlayers=4
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0, 5, 10, 15], 1

@@ -1,8 +1,9 @@
-Name=BladeGrid [Difficulty: Harder]
-#[Difficulty: Harder]
+Name=BladeGrid
 Height=4
 MinPlayers=2
 MaxPlayers=-1
+Difficulty=Harder
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0, 2, 13, 15], 0.7

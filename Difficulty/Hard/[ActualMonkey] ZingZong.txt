@@ -1,8 +1,9 @@
-Name=ZigDingZingDing [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=ZigDingZingDing
 Height=8
 MinPlayers=-1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=ActualMonkey
 
 Sequence:
 MultiDrop=[0, 1, 4, 5, 8, 9, 12, 13], 1

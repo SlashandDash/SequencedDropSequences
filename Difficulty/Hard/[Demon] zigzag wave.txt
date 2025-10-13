@@ -1,8 +1,9 @@
-Name=Zigzag Wave [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Zigzag Wave
 Height=6
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 # Round 1

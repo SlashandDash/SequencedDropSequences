@@ -1,8 +1,9 @@
-Name=So confusing [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=So confusing
 Height=4  
 MinPlayers=1  
 MaxPlayers=-1  
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:  
 MultiDrop=[0, 6, 9, 15], 1  

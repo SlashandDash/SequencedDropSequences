@@ -1,8 +1,9 @@
-Name=Stuck In A Loop [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Stuck In A Loop
 Height=4  
 MinPlayers=1  
 MaxPlayers=-1  
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:  
 MultiDrop=[0], 1  

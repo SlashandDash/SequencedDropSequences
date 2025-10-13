@@ -1,8 +1,9 @@
-Name=Random [Difficulty: Normal]
-#[Difficulty: Normal]
+Name=Random
 Height=17
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Normal
+Madeby=Albion
 
 Sequence:
 Drop=0, 1

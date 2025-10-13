@@ -1,8 +1,9 @@
-Name=Demon made by .. well Demon Duh [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Demon made by .. well Demon Duh
 Height=4
 MinPlayers=4
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[7], 1

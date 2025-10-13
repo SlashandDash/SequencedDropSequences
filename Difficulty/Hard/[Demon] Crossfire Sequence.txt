@@ -1,8 +1,9 @@
-Name=Crossfire [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Crossfire
 Height=4
 MinPlayers=4
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0, 5], 1

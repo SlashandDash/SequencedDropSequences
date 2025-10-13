@@ -1,8 +1,9 @@
-Name=Cha Cha Variant [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Cha Cha Variant
 Height=4
 MinPlayers=2
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0, 2, 13, 15], 0.7

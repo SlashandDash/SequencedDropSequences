@@ -1,8 +1,9 @@
-Name=Kuzureta [Difficulty: Insane]
-#[Difficulty: Insane]
+Name=Kuzureta
 Height=4
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Insane
+Madeby=Slash and Dash
 
 Sequence:
 MultiDrop=[13], 0.5

@@ -1,8 +1,9 @@
-Name=Parkour2 [Difficulty: Normal]
-#[Difficulty: Normal]
+Name=Parkour2
 Height=6
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Normal
+Madeby=Albion
 
 Sequence:
 MultiDrop=[12,13,14,15,0,6], 0.75

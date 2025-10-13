@@ -1,8 +1,9 @@
-Name=Think Fast [Difficulty: Harder]
-#[Difficulty: Harder]
+Name=Think Fast
 Height=5
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Harder
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0, 1, 2, 3], 0.3

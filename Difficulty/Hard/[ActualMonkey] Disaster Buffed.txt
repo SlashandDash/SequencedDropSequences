@@ -1,8 +1,9 @@
-Name=Disaster Buffed [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Disaster Buffed
 Height=4
 MinPlayers=4
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=ActualMonkey
 
 Sequence:
 MultiDrop=[0, 15], 0.5

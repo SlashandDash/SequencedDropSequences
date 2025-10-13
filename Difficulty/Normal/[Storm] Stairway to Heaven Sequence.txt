@@ -1,8 +1,9 @@
-Name=Stairway to Heaven [Difficulty: Normal]
-#[Difficulty: Normal]
+Name=Stairway to Heaven
 Height=16
 MinPlayers=-1
 MaxPlayers=8
+Difficulty=Normal
+Madeby=Storm
 
 Sequence:
 #drop

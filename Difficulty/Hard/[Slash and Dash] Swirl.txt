@@ -1,8 +1,9 @@
-Name=Swirl [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Swirl
 Height=3
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Slash and Dash
 
 Sequence:
 

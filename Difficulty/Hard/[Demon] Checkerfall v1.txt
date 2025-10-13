@@ -1,8 +1,9 @@
-Name=Checkerfall V1 [Difficulty: Hard]
-#[Difficulty: Hard]
+Name=Checkerfall V1
 Height=4
 MinPlayers=1
 MaxPlayers=-1
+Difficulty=Hard
+Madeby=Demon
 
 Sequence:
 MultiDrop=[0,2,4,6,8,10,12,14], 0.7
