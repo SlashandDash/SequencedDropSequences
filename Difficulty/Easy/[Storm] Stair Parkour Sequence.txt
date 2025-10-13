@@ -1,8 +1,9 @@
-Name=Stair Parkour [Difficulty: Easy]
-#[Difficulty: Easy]
+Name=Stair Parkour
 Height=11
 MinPlayers=-1
 MaxPlayers=15
+Difficulty=Easy
+Madeby=Storm
 
 Sequence:
 #drop uno

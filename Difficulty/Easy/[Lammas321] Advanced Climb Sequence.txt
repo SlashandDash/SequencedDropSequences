@@ -1,8 +1,9 @@
-Name=Advanced Climb! [Difficulty: Easy]
-#[Difficulty: Easy]
+Name=Advanced Climb!
 Height=8
 MinPlayers=-1
 MaxPlayers=10
+Difficulty=Easy
+Madeby=Lammas321
 
 Sequence:
 MultiDrop=[5, 6, 9, 10], 1, 8, 0.1

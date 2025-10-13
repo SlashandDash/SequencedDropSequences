@@ -1,8 +1,9 @@
-Name=Peak [Difficulty: Easy]
-#[Difficulty: Easy]
+Name=Peak
 Height=5
 MinPlayers=-1
 MaxPlayers=10
+Difficulty=Easy
+Madeby=Lammas321
 
 Sequence:
 MultiDrop=[6, 9], 1.5

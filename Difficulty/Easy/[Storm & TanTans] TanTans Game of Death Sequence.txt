@@ -1,8 +1,9 @@
-Name=Tantan's Game of Death [Difficulty: Easy]
-#[Difficulty: Easy]
+Name=Tantan's Game of Death
 Height=6
 MinPlayers=-1
 MaxPlayers=12
+Difficulty=Easy
+Madeby=Storm & TanTans
 
 Sequence:
 #Layer 1

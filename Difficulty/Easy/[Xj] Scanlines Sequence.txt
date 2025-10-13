@@ -1,8 +1,9 @@
-Name=Scanlines [Difficulty: Easy]
-#[Difficulty: Easy]
+Name=Scanlines
 Height=2
 MinPlayers=5
 MaxPlayers=-1
+Difficulty=Easy
+Madeby=Xj
 
 Sequence:
 MultiDrop=[0, 1, 2, 3, 4, 8, 12], 1

@@ -1,8 +1,9 @@
-Name=Smile! :) [Difficulty: Easy]
-#[Difficulty: Easy]
+Name=Smile! :)
 Height=1
 MinPlayers=7
 MaxPlayers=-1
+Difficulty=Easy
+Madeby=Lammas321
 
 Sequence:
 MultiDrop=[0, 3, 8, 11, 13, 14], 1

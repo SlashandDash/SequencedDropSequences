@@ -1,8 +1,9 @@
-Name=Cha Cha Slide [Difficulty: Easy]
-#[Difficulty: Easy]
+Name=Cha Cha Slide
 Height=4
 MinPlayers=4
 MaxPlayers=-1
+Difficulty=Easy
+Madeby=Lammas321
 
 Sequence:
 #Slide to the left,

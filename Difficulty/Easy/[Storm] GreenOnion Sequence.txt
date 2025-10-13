@@ -1,8 +1,9 @@
-Name=GreenOnion [Difficulty: Easy]
-#[Difficulty: Easy]
+Name=GreenOnion
 Height=6
 MinPlayers=-1
 MaxPlayers=12
+Difficulty=Easy
+Madeby=Storm
 
 Sequence:
 #Layer 1
