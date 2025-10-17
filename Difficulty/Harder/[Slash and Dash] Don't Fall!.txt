@@ -3,7 +3,7 @@ Height=7
 MinPlayers=1
 MaxPlayers=-1
 Difficulty=Harder
-Madeby=Demon
+Madeby=Slash and Dash
 
 Sequence:
 
