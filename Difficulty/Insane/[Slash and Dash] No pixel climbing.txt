@@ -1,0 +1,40 @@
+Name=No pixel climbing
+Height=7
+MinPlayers=1
+MaxPlayers=-1
+Difficulty=Insane
+Madeby=Slash and Dash
+
+Sequence:
+
+
+Wait=1
+
+MultiDrop=[12, 13, 14, 15], 0.5, 1, 0.1
+MultiDrop=[8, 11], 0.5, 2, 0.1
+MultiDrop=[4, 7], 0.5, 3, 0.1
+MultiDrop=[0, 1, 2, 3], 0.5, 4, 0.1
+
+Wait=5
+
+
+MultiDrop=[12, 13, 14, 15], 0.5, 3, 0.1
+MultiDrop=[8, 11], 0.5, 2, 0.1
+MultiDrop=[4, 7], 0.5, 1, 0.1
+
+Wait=3
+
+MultiDrop=[0, 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15], 0.5, 1, 0.1
+
+Wait=2
+
+MultiDrop=[0, 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15], 0.5, 1, 0.1
+
+Wait=2
+
+MultiDrop=[0, 1, 2, 3, 4, 7, 8, 11, 12, 13, 14, 15], 0.5, 1, 0.1
+
+Wait=3
+
+MultiDrop=[5, 6, 9, 10], 0.1, 7, 0.1
+
